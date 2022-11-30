@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\P9\P9\bin\Debug\P9.exe.config
+C:\Users\10\source\repos\P9\P9\bin\Debug\P9.exe
+C:\Users\10\source\repos\P9\P9\bin\Debug\P9.pdb
+C:\Users\10\source\repos\P9\P9\obj\Debug\P9.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\P9\P9\obj\Debug\P9.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\P9\P9\obj\Debug\P9.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\P9\P9\obj\Debug\P9.exe
+C:\Users\10\source\repos\P9\P9\obj\Debug\P9.pdb

@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\p8\p8\bin\Debug\p8.exe.config
+C:\Users\10\source\repos\p8\p8\bin\Debug\p8.exe
+C:\Users\10\source\repos\p8\p8\bin\Debug\p8.pdb
+C:\Users\10\source\repos\p8\p8\obj\Debug\p8.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\p8\p8\obj\Debug\p8.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\p8\p8\obj\Debug\p8.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\p8\p8\obj\Debug\p8.exe
+C:\Users\10\source\repos\p8\p8\obj\Debug\p8.pdb
