@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\P15\P15\bin\Debug\P15.exe.config
+C:\Users\10\source\repos\P15\P15\bin\Debug\P15.exe
+C:\Users\10\source\repos\P15\P15\bin\Debug\P15.pdb
+C:\Users\10\source\repos\P15\P15\obj\Debug\P15.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\P15\P15\obj\Debug\P15.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\P15\P15\obj\Debug\P15.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\P15\P15\obj\Debug\P15.exe
+C:\Users\10\source\repos\P15\P15\obj\Debug\P15.pdb

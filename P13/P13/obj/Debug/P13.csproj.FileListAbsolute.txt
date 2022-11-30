@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\P13\P13\bin\Debug\P13.exe.config
+C:\Users\10\source\repos\P13\P13\bin\Debug\P13.exe
+C:\Users\10\source\repos\P13\P13\bin\Debug\P13.pdb
+C:\Users\10\source\repos\P13\P13\obj\Debug\P13.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\P13\P13\obj\Debug\P13.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\P13\P13\obj\Debug\P13.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\P13\P13\obj\Debug\P13.exe
+C:\Users\10\source\repos\P13\P13\obj\Debug\P13.pdb

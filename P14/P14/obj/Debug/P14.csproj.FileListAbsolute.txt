@@ -1,0 +1,8 @@
+C:\Users\10\source\repos\P14\P14\bin\Debug\P14.exe.config
+C:\Users\10\source\repos\P14\P14\bin\Debug\P14.exe
+C:\Users\10\source\repos\P14\P14\bin\Debug\P14.pdb
+C:\Users\10\source\repos\P14\P14\obj\Debug\P14.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\P14\P14\obj\Debug\P14.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\P14\P14\obj\Debug\P14.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\P14\P14\obj\Debug\P14.exe
+C:\Users\10\source\repos\P14\P14\obj\Debug\P14.pdb
